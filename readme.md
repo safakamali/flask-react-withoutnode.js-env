@@ -23,7 +23,7 @@ npm install
 
 npm will automatically install this package
 
-You can now run app.py file with python. when you run this file flask server started and you can
+You can now run app.py file with python. when you run this file flask server started, and you can
 go to http://localhost and see the index.html template
 
 In index.html, babel, react and our javascript scripts was imported
@@ -51,4 +51,4 @@ The `js_import_maker.py` make the tags for import **all compiled files** that we
 It is not a suitable development environment for almost any medium project and is only for learning. It is hoped that by
 developing this it can be used. Changes and suggestions are welcome
 
-if you enjoy, please follow me on github
+if you enjoy, please follow me on GitHub
