@@ -4,7 +4,7 @@ class App extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            mylist: ["Mohammad Safa Kamali", "Fatemeh Taghavi", "Sajjad Kamali", "Mohammad Kamali"],
+            mylist: ["Mohammad Safa Kamali", "Person 2", "Person 3", "Person 4"],
             alert: ''
         };
     }
